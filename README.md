@@ -1,4 +1,4 @@
-# Hi there, I'm Sonam Singh <img src="https://tenor.com/view/hand-waving-hand-emoji-gif-14999877618442267107" width="30px">
+# Hi there, I'm Sonam Singh <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px">
 
 I am an enthusiastic and goal-driven Computer Science student, currently pursuing my **B.Tech at KIPM College of Engineering and Technology**.I am passionate about writing efficient code and working in team environments to deliver impactful solutions.
 
